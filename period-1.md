@@ -49,6 +49,7 @@ Watch (Two nice videos to prepare you for es2015, be sure to code along)
 * Read (just this page) about [Webpack](https://webpack.github.io/docs/what-is-webpack.html)
 * [Using ES6 and ES7 in the Browser, with Babel, and Webpack](http://jamesknelson.com/using-es6-in-the-browser-with-babel-6-and-webpack/)
 **Exercises: TBD**
+
 ## **16-02-Thursday**
 ###Complete Hand-in for Period-1
 
