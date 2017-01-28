@@ -50,7 +50,7 @@ Watch (Two nice videos to prepare you for es2015, be sure to code along)
 * [Using ES6 and ES7 in the Browser, with Babel, and Webpack](http://jamesknelson.com/using-es6-in-the-browser-with-babel-6-and-webpack/)
 **Exercises: TBD**
 
-## **16-02**
+## **16-02-Thuersday**
 ###Complete Hand-in for Period-1
 
 **Period Milestones:**
