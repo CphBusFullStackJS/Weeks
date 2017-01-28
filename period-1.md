@@ -36,7 +36,7 @@ Or Watch:
 **Exercises:** Complete all exercises from learnyournode, introduced day-1.
 Hints: You should really try hard before this, but all solutions can be found here: 
 
-## **06-02-Monday**
+# **06-02-Monday**
 * es2015, es2017 ... 
 * A short intro to TypeScript
 
@@ -49,7 +49,7 @@ Watch (Two nice videos to prepare you for es2015, be sure to code along)
 * [es2005-video-2](https://www.youtube.com/watch?v=LmL0Gh193M0)
 
 **Exercises** [es2015 exercises](https://docs.google.com/document/d/1pkWn0_FoZuDJhGei4XlX4mx4zkZH7iuhtc6ecr5kelY/edit)
-## 13-02-Monday
+# 13-02-Monday
 * Using es2015 --> features in a browser
 * Babel and Webpack
 
@@ -60,7 +60,7 @@ Watch (Two nice videos to prepare you for es2015, be sure to code along)
 
 **Exercises: TBD**
 
-## **16-02-Thuersday**
+# **16-02-Thuersday**
 ###Complete Hand-in for Period-1
 
 **Period Milestones:**
