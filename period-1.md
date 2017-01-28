@@ -10,7 +10,7 @@
 * Basic asynchronous programming with JavaScript
 
 #### Before this lesson you should:
-* <a href="https://nodejs.org/en/download/current/" target="_blank">Install node</a> (I suggest the LTS version)
+* <a href="https://nodejs.org/en/download/current/" target="_blank" >Install node</a> (I suggest the LTS version)
 * [Install](https://code.visualstudio.com/download) Visual Studio Code(vs-code)
 * [Read](https://code.visualstudio.com/Docs/languages/javascript) this document about vs-code, and install (my recommendations) the following extensions before the lesson: 
  *Debugger for Chrome, EsLint, Babel ES6/ES7, Path IntelliSense, npm Intellisense, vscode-icons*
