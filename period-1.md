@@ -43,7 +43,7 @@ Watch (Two nice videos to prepare you for es2015, be sure to code along)
 [es2005-video-1](https://www.youtube.com/watch?v=AfWYO8t7ed4)
 [es2005-video-2](https://www.youtube.com/watch?v=LmL0Gh193M0)
 **Exercises** [es2015 exercises](https://docs.google.com/document/d/1pkWn0_FoZuDJhGei4XlX4mx4zkZH7iuhtc6ecr5kelY/edit)
-## **13-02 Monday**
+## **# 13-02 Monday**
 ####Before this lesson you should:
 **Read:**
 * Read (just this page) about [Webpack](https://webpack.github.io/docs/what-is-webpack.html)
