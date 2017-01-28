@@ -4,7 +4,6 @@
 *In this period we will refresh our JavaScript knowledge from previous semester and introduce the node.js platform. Finally we will introduce the newest versions of JavaScript and focus on what it takes to use it, both on the server and on clients. Learning Goals*
 
 # **30-01-Monday** 
-* <a target="_blank" title="hello" href="http://wilsonmar.github.io/">my site</a>
 * Vanilla JavaScript with Node.js
 * An introduction to Node.JS
 * Scope, Hoisting, Closures, this, Prototyping, etc.
