@@ -37,6 +37,8 @@ Or Watch:
 Hints: You should really try hard before this, but all solutions can be found here: 
 
 ## **06-02-Monday**
+* es2015, es2017 ... 
+* A short intro to TypeScript
 ###Before this lesson you should:
 Read:
 [Understanding ES5, ES2015 and TypeScript:](https://johnpapa.net/es5-es2015-typescript/)
@@ -45,6 +47,8 @@ Watch (Two nice videos to prepare you for es2015, be sure to code along)
 [es2005-video-2](https://www.youtube.com/watch?v=LmL0Gh193M0)
 **Exercises** [es2015 exercises](https://docs.google.com/document/d/1pkWn0_FoZuDJhGei4XlX4mx4zkZH7iuhtc6ecr5kelY/edit)
 ## 13-02-Monday
+* Using es2015 --> features in a browser
+* Babel and Webpack
 ####Before this lesson you should:
 **Read:**
 * Read (just this page) about [Webpack](https://webpack.github.io/docs/what-is-webpack.html)
