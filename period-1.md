@@ -2,7 +2,7 @@
 
 *In this period we will refresh our JavaScript knowledge from previous semester and introduce the node.js platform. Finally we will introduce the newest versions of JavaScript and focus on what it takes to use it, both on the server and on clients. Learning Goals*
 
-### **30-01 (Monday)** 
+### **30-01-Monday** 
 * Vanilla JavaScript with Node.js
 * An introduction to Node.JS
 * Scope, Hoisting, Closures, this, Prototyping, etc.
@@ -19,7 +19,7 @@
 
 **Exercises:** [Day-1](https://docs.google.com/document/d/1nGvH5rrd2yhnZqnKfvgS5hBQqwhbbSVyHG31MenA7-o/edit)     **Slides:**   [About the course](http://js-plaul.rhcloud.com/fsj/fsj.html#1)  -   [Node Intro](http://js-plaul.rhcloud.com/node1/NodeIntro.html#1)  -   [JavaScript Basic](http://js-plaul.rhcloud.com/javascript1/js.html#1)   
 
-### **02-02 Tuesday**
+### **02-02-Tuesday**
 * Vanilla JavaScript Continued
 * NodeJs 
 * Modules and npm
@@ -35,7 +35,7 @@ Or Watch:
 **Exercises:** Complete all exercises from learnyournode, introduced day-1.
 Hints: You should really try hard before this, but all solutions can be found here: 
 
-## **06-02 Monday**
+## **06-02-Monday**
 ###Before this lesson you should:
 Read:
 [Understanding ES5, ES2015 and TypeScript:](https://johnpapa.net/es5-es2015-typescript/)
@@ -43,13 +43,13 @@ Watch (Two nice videos to prepare you for es2015, be sure to code along)
 [es2005-video-1](https://www.youtube.com/watch?v=AfWYO8t7ed4)
 [es2005-video-2](https://www.youtube.com/watch?v=LmL0Gh193M0)
 **Exercises** [es2015 exercises](https://docs.google.com/document/d/1pkWn0_FoZuDJhGei4XlX4mx4zkZH7iuhtc6ecr5kelY/edit)
-## **13-02**
+## **13-02-Monday**
 ####Before this lesson you should:
 **Read:**
 * Read (just this page) about [Webpack](https://webpack.github.io/docs/what-is-webpack.html)
 * [Using ES6 and ES7 in the Browser, with Babel, and Webpack](http://jamesknelson.com/using-es6-in-the-browser-with-babel-6-and-webpack/)
 **Exercises: TBD**
-## **16-02 Thursday**
+## **16-02-Thursday**
 ###Complete Hand-in for Period-1
 
 **Period Milestones:**
