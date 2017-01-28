@@ -39,6 +39,7 @@ Hints: You should really try hard before this, but all solutions can be found he
 ## **06-02-Monday**
 * es2015, es2017 ... 
 * A short intro to TypeScript
+
 ###Before this lesson you should:
 Read:
 [Understanding ES5, ES2015 and TypeScript:](https://johnpapa.net/es5-es2015-typescript/)
@@ -49,10 +50,12 @@ Watch (Two nice videos to prepare you for es2015, be sure to code along)
 ## 13-02-Monday
 * Using es2015 --> features in a browser
 * Babel and Webpack
+
 ####Before this lesson you should:
 **Read:**
 * Read (just this page) about [Webpack](https://webpack.github.io/docs/what-is-webpack.html)
 * [Using ES6 and ES7 in the Browser, with Babel, and Webpack](http://jamesknelson.com/using-es6-in-the-browser-with-babel-6-and-webpack/)
+
 **Exercises: TBD**
 
 ## **16-02-Thuersday**
