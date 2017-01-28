@@ -18,7 +18,7 @@
 
 **Please note:Without Node + a sufficient Editor/IDE, there is really no reason to attend this lesson ;-)** 
 
-**Exercises:** [Day-1](https://docs.google.com/document/d/1nGvH5rrd2yhnZqnKfvgS5hBQqwhbbSVyHG31MenA7-o/edit)     **Slides:**   [About the course](http://js-plaul.rhcloud.com/fsj/fsj.html#1)  -   [Node Intro](http://js-plaul.rhcloud.com/node1/NodeIntro.html#1)  -   [JavaScript Basic](http://js-plaul.rhcloud.com/javascript1/js.html#1)   
+**Exercises:** <a href="https://docs.google.com/document/d/1nGvH5rrd2yhnZqnKfvgS5hBQqwhbbSVyHG31MenA7-o" target="_blank">Exercises</a>   **Slides:**   [About the course](http://js-plaul.rhcloud.com/fsj/fsj.html#1)  -   [Node Intro](http://js-plaul.rhcloud.com/node1/NodeIntro.html#1)  -   [JavaScript Basic](http://js-plaul.rhcloud.com/javascript1/js.html#1)   
 
 # **02-02-Thursday**
 * Vanilla JavaScript Continued
