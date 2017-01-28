@@ -1,4 +1,5 @@
-# Period-1  Basic JavaScript, node.js and es2015   
+# Period-1  
+###Basic JavaScript, node.js and es2015   
 
 *In this period we will refresh our JavaScript knowledge from previous semester and introduce the node.js platform. Finally we will introduce the newest versions of JavaScript and focus on what it takes to use it, both on the server and on clients. Learning Goals*
 
