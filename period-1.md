@@ -3,7 +3,7 @@
 
 *In this period we will refresh our JavaScript knowledge from previous semester and introduce the node.js platform. Finally we will introduce the newest versions of JavaScript and focus on what it takes to use it, both on the server and on clients. Learning Goals*
 
-### **30-01-Monday** 
+# **30-01-Monday** 
 * Vanilla JavaScript with Node.js
 * An introduction to Node.JS
 * Scope, Hoisting, Closures, this, Prototyping, etc.
@@ -20,7 +20,7 @@
 
 **Exercises:** [Day-1](https://docs.google.com/document/d/1nGvH5rrd2yhnZqnKfvgS5hBQqwhbbSVyHG31MenA7-o/edit)     **Slides:**   [About the course](http://js-plaul.rhcloud.com/fsj/fsj.html#1)  -   [Node Intro](http://js-plaul.rhcloud.com/node1/NodeIntro.html#1)  -   [JavaScript Basic](http://js-plaul.rhcloud.com/javascript1/js.html#1)   
 
-### **02-02-Thursday**
+# **02-02-Thursday**
 * Vanilla JavaScript Continued
 * NodeJs 
 * Modules and npm
