@@ -1,12 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
 
-<head>
-  <meta charset="UTF-8">
-  <title>Document</title>
-</head>
-
-<body>
   <h1 id="period1">Period-1</h1>
 
   <h3 id="basicjavascriptnodejsandes2015">Basic JavaScript, node.js and es2015</h3>
@@ -133,6 +125,3 @@
   </ul>
 
   <p><a href="periods.md">Back to calendar</a></p>
-</body>
-
-</html>
