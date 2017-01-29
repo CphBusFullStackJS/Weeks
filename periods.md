@@ -9,4 +9,11 @@ Mon, 20/02 |  Period-2 | Web Projects with Node.js and Express 1 | [ &#128279;](
 Mon, 27/02 |  Period-2 | Web/REST Projects with Node.js and Express | [ &#128279;](period-2.md/#27-02-monday) | 
 Thu, 02/03 |  Period-2 | JavaScript Backend Testing using Mocha| [ &#128279;](period-2.md/#02-03-thuersday) | 
 Mon, 06/03 |  Period-2 | Complete Hand-in 2| [ &#128279;](period-2.md/#06-03-mon) | 
-Mon, 13/03 |  Period-3 | | [ &#128279;]() | 
+Mon, 13/03 |  Period-3 | NoSQL-1 | [ &#128279;](#) | 
+Thu, 16/03 |  Period-3 | NoSQL-1 | [ &#128279;](#) |
+Mon, 20/03 |  Period-3 | NoSQL-1 | [ &#128279;](#) |
+Mon, 27/03 |  Period-3 | Hybrid Mobile Apps  | [ &#128279;](#) |
+Thu, 30/03 |  Period-4 | Hybrid Mobile Apps  | [ &#128279;](#) |
+Mon, 03/04 |  Period-4 | Hybrid Mobile Apps  | [ &#128279;](#) |
+  |  Easter Holiday| |  |
+Thu, 06/04 |  Period-4 | Hybrid Mobile Apps  | [ &#128279;](#) |  
