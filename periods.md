@@ -16,4 +16,7 @@ Mon, 27/03 |  Period-3 | Hybrid Mobile Apps  | [ &#128279;](#) |
 Thu, 30/03 |  Period-4 | Hybrid Mobile Apps  | [ &#128279;](#) |
 Mon, 03/04 |  Period-4 | Hybrid Mobile Apps  | [ &#128279;](#) |
   |  Easter Holiday| |  |
-Thu, 06/04 |  Period-4 | Hybrid Mobile Apps  | [ &#128279;](#) |  
+Thu, 24/04 |  Period-5 | React (or ??)  | [ &#128279;](#) |  
+Thu, 01/05 |  Period-5 | React (or ??)  | [ &#128279;](#) |  
+Thu, 08/05 |  Period-5 | React (or ??)  | [ &#128279;](#) |  
+This remaining weeks are not planned yet
