@@ -1,8 +1,9 @@
 # Period-1  
 ###Basic JavaScript, node.js and es2015   
 
-*In this period we will refresh our JavaScript knowledge from previous semester and introduce the node.js platform. Finally we will introduce the newest versions of JavaScript and focus on what it takes to use it, both on the server and on clients. 
-[Learning Goals](https://docs.google.com/document/d/1nOrVsZGVxK0RMW-1MJPjurROR50Fq2NQbi4iOaBN-M0/)*
+*In this period we will refresh our JavaScript knowledge from previous semester and introduce the node.js platform. Finally we will introduce the newest versions of JavaScript and focus on what it takes to use it, both on the server and on clients.
+
+[Learning Goals Period1](https://docs.google.com/document/d/1nOrVsZGVxK0RMW-1MJPjurROR50Fq2NQbi4iOaBN-M0/)*
 
 # **30-01-Monday** 
 * Vanilla JavaScript with Node.js
