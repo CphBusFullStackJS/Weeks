@@ -36,7 +36,7 @@ Or Watch:
 * No matter what, you should watch this this fantastic video: [The Event Loop](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
 
 **Exercises:** Complete all exercises from learnyournode, introduced day-1.
-Hints: You should really try hard before this, but all solutions can be found here: 
+Hints: You should really try hard before this, but all solutions can be found here: **Slides** [npm, node and events](http://js-plaul.rhcloud.com/node2/NodeGettingStarted.html)
 
 # **06-02-Monday**
 * es2015, es2017 ... 
