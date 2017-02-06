@@ -51,6 +51,7 @@ Watch (Two nice videos to prepare you for es2015, be sure to code along)
 * [es2005-video-2](https://www.youtube.com/watch?v=LmL0Gh193M0)
 
 **Exercises** [es2015 exercises](https://docs.google.com/document/d/1pkWn0_FoZuDJhGei4XlX4mx4zkZH7iuhtc6ecr5kelY/edit)
+**Slides** [es2015/TypeScript](http://js-plaul.rhcloud.com/es2015_typescript/es5VStypescript.html)
 # 13-02-Monday
 * Using es2015 --> features in a browser
 * Babel and Webpack
