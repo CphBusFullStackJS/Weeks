@@ -1,4 +1,4 @@
-# Repository Full Stack JavaScript
+# Repository for Full Stack JavaScript
 
 *JavaScript is everywhere. Once a simple misunderstood language, used only for simple browser manipulations, it has now evolved along with the Web and finds itself entrenched in all modern browsers, complex Web applications, mobile apps, server-side applications, desktop applications and in emerging platforms like the Internet of Things*
 
