@@ -68,8 +68,8 @@ Watch (Two nice videos to prepare you for es2015, be sure to code along)
 ###Complete Hand-in for Period-1
 
 **Period Milestones:**
-* Period Hand-in:                     TBD
-* Reviews must be completed: TBD
+* Period Hand-in:            Thuersday 16-02 - 20.00
+* Reviews must be completed: Saturday: 18-02-16-00
 * Hand-in Document:  TBD
 * Review Document:   TBD
 
