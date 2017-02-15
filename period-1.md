@@ -70,7 +70,7 @@ Watch (Two nice videos to prepare you for es2015, be sure to code along)
 **Period Milestones:**
 * Period Hand-in:            Thuersday 16-02 - 20.00
 * Reviews must be completed: Saturday: 18-02-16-00
-* Hand-in Document:  [Add your hand-in links here](https://docs.google.com/document/d/1nOrVsZGVxK0RMW-1MJPjurROR50Fq2NQbi4iOaBN-M0/edit )
+* Hand-in Document:  [Add your hand-in links here](https://docs.google.com/spreadsheets/d/10ryWRwJExuJlyuRfYdyRfRwOITqZItRneWDiY0RM81M/edit?usp=sharing )
 * Review Document:   TBD
 
 [Back to calendar](periods.md)
