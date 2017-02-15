@@ -8,4 +8,5 @@ Assemble all your code in one folder/project and commit the code to github. You 
 Find a person with whom you want to do a peer review (you review the code from this person, and your code is reviewed by the same person)
 You get study points from the reviewer for what you have done (max 8)
 You provide study points as for the feedback you received from the reviw (max 6) 
-Add your name+git-hub link to this [document](https://docs.google.com/spreadsheets/d/10ryWRwJExuJlyuRfYdyRfRwOITqZItRneWDiY0RM81M/edit?usp=sharing) , and both parts should fill in the required information: 
+
+Add your **name** + **git-hub** link to this [document](https://docs.google.com/spreadsheets/d/10ryWRwJExuJlyuRfYdyRfRwOITqZItRneWDiY0RM81M/edit?usp=sharing) , and **both parts** should fill in the required information: 
