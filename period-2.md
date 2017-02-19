@@ -26,7 +26,7 @@ Watch watch this video (but see notes below first): [Server Side Apps with Node/
 Now just follow the tutorial :-)
 
 
-**Exercises:** [From allmost Zero to start](https://docs.google.com/document/d/12AKRDn-PGH4mkBuKgVpKxqXAw33R5x9DX-QrIHzaPAY)  XXX    
+**Exercises:** [From allmost Zero to start](https://docs.google.com/document/d/12AKRDn-PGH4mkBuKgVpKxqXAw33R5x9DX-QrIHzaPAY) , [Exercises](https://docs.google.com/document/d/1-Bu_FC___DM9tS8fugsLe4EnwjPs4OSYCe6PMsCVE2Y/edit)   
 **Slides:** 
 
 # **27-02-Thursday**
