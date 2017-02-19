@@ -29,7 +29,7 @@ Now just follow the tutorial :-)
 **Exercises:** [From allmost Zero to start](https://docs.google.com/document/d/12AKRDn-PGH4mkBuKgVpKxqXAw33R5x9DX-QrIHzaPAY) , [Exercises](https://docs.google.com/document/d/1-Bu_FC___DM9tS8fugsLe4EnwjPs4OSYCe6PMsCVE2Y/edit)   
 **Slides:** 
 
-# **27-02-Thursday**
+# **27-02-Monday**
 * Express Continued
 * Server Side Rendering Libraries
 * REST with node/Express
@@ -49,7 +49,7 @@ Now just follow the tutorial :-)
 **Exercises:** TBD
 
 
-# **06-03-Thuersday**
+# **06-03-Monday**
 ###Complete Hand-in for Period-2
 
 **Period Milestones:**
