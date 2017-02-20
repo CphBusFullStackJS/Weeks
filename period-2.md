@@ -35,7 +35,7 @@ Now just follow the tutorial :-)
 * REST with node/Express
 
 #### Before this lesson you should:
-*TBD*
+[Watch this key-note speech](http://expressjs.com/)
 **Exercises:** TBD
 
 # **02-03-Thursday**
