@@ -45,7 +45,7 @@ Now just follow the tutorial :-)
 * Mocking with JavaScript
 
 #### Before this lesson you should:
-*TBD*
+[Watch the Keynote speech](http://expressjs.com/)
 **Exercises:** TBD
 
 
