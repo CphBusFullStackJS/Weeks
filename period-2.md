@@ -36,6 +36,7 @@ Now just follow the tutorial :-)
 
 #### Before this lesson you should:
 [Watch this key-note speech](http://expressjs.com/)
+
 **Exercises:**
 * [Complete exercises from last week](https://docs.google.com/document/d/1-Bu_FC___DM9tS8fugsLe4EnwjPs4OSYCe6PMsCVE2Y/edit?usp=sharing)
 * [Deploy your Express App to DO](https://docs.google.com/document/d/1wPaS9vSoMQNbSR5KTSro7CXt2yfQzm2s9cPM3ZCvmTg/edit?usp=sharing)
