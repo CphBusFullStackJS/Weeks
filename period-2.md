@@ -51,6 +51,20 @@ Now just follow the tutorial :-)
 
 #### Before this lesson you should:
 [Watch the Keynote speech](http://expressjs.com/)
+
+### Read/Watch
+If you like videos, since it gives you a chance to code along in your own speed, Lynda.com have a complete Node/Express course with some cool testing videos. 
+Once logged in to Lynda search for "Node.js Essential Training" and watch:
+* Testing with mocha and Chai
+*	Asynchronous mocha testing
+*	Mocking a server with NOCK
+*	Code Coverage with Istanbul
+
+As usual, the API descriptions should be your main resource for Mocha/Chai-questions.
+*	[Mocha] (http://mochajs.org/ )
+* [Chai](http://chaijs.com/api/bdd/#method_throw)
+
+
 **Exercises:** [JavaScript Backend Testing](https://docs.google.com/document/d/1JyQ4Qgdori9QYZ8Pfjp5x7P5vIGImx0Byc4pNrG9DXA/edit?usp=sharing)
 
 [Slides](http://js-plaul.rhcloud.com/test1/unitTestingBackend.html#1)
