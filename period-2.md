@@ -51,7 +51,9 @@ Now just follow the tutorial :-)
 
 #### Before this lesson you should:
 [Watch the Keynote speech](http://expressjs.com/)
-**Exercises:** TBD
+**Exercises:** [JavaScript Backend Testing](https://docs.google.com/document/d/1JyQ4Qgdori9QYZ8Pfjp5x7P5vIGImx0Byc4pNrG9DXA/edit?usp=sharing)
+
+[Slides](http://js-plaul.rhcloud.com/test1/unitTestingBackend.html#1)
 
 
 # **06-03-Monday**
