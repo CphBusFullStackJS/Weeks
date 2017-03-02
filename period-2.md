@@ -67,6 +67,8 @@ As usual, the API descriptions should be your main resource for Mocha/Chai-quest
 
 **Exercises:** [JavaScript Backend Testing](https://docs.google.com/document/d/1JyQ4Qgdori9QYZ8Pfjp5x7P5vIGImx0Byc4pNrG9DXA/edit?usp=sharing)
 
+[Cool Mocha Tutorial](https://semaphoreci.com/community/tutorials/getting-started-with-node-js-and-mocha)
+
 [Slides](http://js-plaul.rhcloud.com/test1/unitTestingBackend.html#1)
 
 
