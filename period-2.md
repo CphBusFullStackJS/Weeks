@@ -78,7 +78,5 @@ As usual, the API descriptions should be your main resource for Mocha/Chai-quest
 **Period Milestones:**
 * Period Hand-in:                     TBD
 * Reviews must be completed: TBD
-* Hand-in Document:  TBD
-* Review Document:   TBD
-
+* [Hand-in Document](https
 [Back to calendar](periods.md)
