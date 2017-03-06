@@ -76,7 +76,7 @@ As usual, the API descriptions should be your main resource for Mocha/Chai-quest
 ###Complete Hand-in for Period-2
 
 **Period Milestones:**
-* Period Hand-in:                     TBD
-* Reviews must be completed: TBD
+* Period Hand-in: Tuesday 08.03:20.00
+* Reviews must be completed: Saturday 11.03:16.00
 * [Hand-in Document](https
 [Back to calendar](periods.md)
