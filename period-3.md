@@ -15,7 +15,7 @@
 
 Before this lesson you should:
 Watch watch this video 
-[Fowler: Introduction to NoSQL]J(No SQL Introduction (Fowler): https://www.youtube.com/watch?v=qI_g07C_Q5I)
+[Fowler: Introduction to NoSQL](https://www.youtube.com/watch?v=qI_g07C_Q5I)
 
 **Exercises:** 
 **Slides:**
