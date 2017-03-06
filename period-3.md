@@ -3,7 +3,7 @@
 
 *TBD*
 
-[Learning Goals Period 3](#)
+[Learning Goals Period 3](https://docs.google.com/document/d/1feH4Re0s1bx9llAli5HfCbO4gcI5c7b14caz0xbAmgc/edit?usp=sharing)
 
 # **13-03-Monday** 
 * An Introduction to NoSQL
