@@ -78,5 +78,6 @@ As usual, the API descriptions should be your main resource for Mocha/Chai-quest
 **Period Milestones:**
 * Period Hand-in: Tuesday 08.03:20.00
 * Reviews must be completed: Saturday 11.03:16.00
-* [Hand-in Document](https
+* [Hand-in Document](https://docs.google.com/spreadsheets/d/1sOMn-f6Pt_B3r1GySeJR9b69bkqKDfm_qxT38vEcd0c/edit?usp=sharing)
+
 [Back to calendar](periods.md)
