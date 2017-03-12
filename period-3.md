@@ -19,6 +19,7 @@ Watch watch this video
 [Install MongoDB](https://docs.mongodb.com/manual/installation/)
 
 #####Exercises:
+[MongoDB Exercises-1](https://docs.google.com/document/d/1G_xrwlL7ZMZKe7oNU_62NjKHEJjZq9oMx7IvKmocw8c/edit?usp=sharing)
 #####Slides:
 [Slides](http://js-plaul.rhcloud.com/mongoDB/mongo.html#1)
 
