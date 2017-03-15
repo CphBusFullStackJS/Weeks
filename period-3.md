@@ -26,14 +26,24 @@ Watch watch this video
 [Slides](http://js-plaul.rhcloud.com/mongoDB/mongo.html#1)
 
 
+
 # **16-03-Thursday**
 
-
 #### Before this lesson you should:
-TBD
+* [Read about Mongoose](http://mongoosejs.com/docs/index.html)
+* [Skim this tutorial (part of todays exercises)](https://scotch.io/tutorials/using-mongoosejs-in-node-js-and-mongodb-applications)
 
-**Exercises:** 
-**Slides**
+#####Exercises:
+
+Select one of these two:
+
+This one continues with the "joke thing" introduced last week, but this time uses mongoose
+[Exercises](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/mongoose#Mongoose_primer)
+
+If your are tired of jokes ;-) you can alternatively give this one a try [Mongoose Primer](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/mongoose#Mongoose_primer). I haven't gone through it, but it look promissing (and you will go deeper into mongo/mongoose, than with the exercise above (but guided, step by step).
+If you go with this one, you must add a simple REST-api which must use some of the database operations implemented in the Guide.
+
+#####Slides
 
 
 # **20-03-Monday**
