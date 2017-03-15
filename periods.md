@@ -5,7 +5,7 @@ Thu, 02/02 |  Period-1 | Vanilla JavaScript cont. node.js |[ &#128279;](period-1
 Mon, 06/02 |  Period-1 | es2015| [ &#128279;](period-1.md/#06-02-monday)| 
 Mon, 13/02 |  Period-1 | Webpack & Babel|  [&#128279;](period-1.md/#13-02-monday) | 
 Thu, 16/02 |  Period-1 | Complete Hand-in 1| [ &#128279;](period-1.md/#16-02-thuersday) | 
-Mon, 20/02 |  Period-2 | Web Projects with Node.js and Express 1 | [ &#128279;](period-2.md/#20-02-monday) | 
+Mon, 20/02 | [Period-2](period-2.md) | Web Projects with Node.js and Express 1 | [ &#128279;](period-2.md/#20-02-monday) | 
 Mon, 27/02 |  Period-2 | Web/REST Projects with Node.js and Express | [ &#128279;](period-2.md/#27-02-monday) | 
 Thu, 02/03 |  Period-2 | JavaScript Backend Testing using Mocha| [ &#128279;](period-2.md/#02-03-thuersday) | 
 Mon, 06/03 |  Period-2 | Complete Hand-in 2| [ &#128279;](period-2.md/#06-03-mon) | 
