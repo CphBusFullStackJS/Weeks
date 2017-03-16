@@ -42,7 +42,7 @@ If your are tired of jokes ;-) you can alternatively give this one a try [Mongoo
 If you go with this one, you must add a simple REST-api which must use some of the database operations implemented in the Guide.
 
 ##### Slides
-
+[Mongoose Slides](http://js-plaul.rhcloud.com/mongoose/mongoose.html#1)
 
 # **20-03-Monday**
 ### Complete Hand-in for Period-2
