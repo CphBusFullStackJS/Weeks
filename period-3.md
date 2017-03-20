@@ -48,8 +48,8 @@ If you go with this one, you must add a simple REST-api which must use some of t
 ### Complete Hand-in for Period-2
 
 **Period Milestones:**
-* Period Hand-in: 
-* Reviews must be completed:
-* [Hand-in Document]
+* Period Hand-in: Wednesday 22-03-2017
+* Reviews must be completed: Saturday 25-03.2017
+* [Hand-in Document](https://docs.google.com/spreadsheets/d/101p2r3oBC2Pt8NjavOPifKixxvFNG5Wmc9FBfGEpH0g/edit?usp=sharing)
 
 [Back to calendar](periods.md)
