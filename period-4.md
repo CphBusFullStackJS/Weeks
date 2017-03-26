@@ -1,7 +1,7 @@
 # Period-4 
 ### Hybrid App Development with JavaScript
 
-[Learning Goals Period 4](#)
+[Learning Goals Period 4](https://docs.google.com/document/d/19oxz_FP9XXENKnO4rf_FH43dKmozaP1ZZbEaRe5Gfl0/edit?usp=sharing)
 
 # **27-03-Monday** 
 * Using Cordova and Ionic 
