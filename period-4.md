@@ -24,7 +24,7 @@ If you like videos, watch this one [Build an Ionic App in 45 minutes (or less)](
 
 
 ##### Exercises:
-* TBD
+[Ionic - Getting started](https://docs.google.com/document/d/1G8o48OU7IFxDW7guZJbciNylUKXQlAfb2LkyWfCmb9o/edit?usp=sharing)
 
 ##### Slides:
 TBD
