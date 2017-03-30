@@ -34,7 +34,7 @@ If you like videos, watch this one [Build an Ionic App in 45 minutes (or less)](
 # **30-03-Thursday**
 
 #### Before this lesson you should:
-Skim these sections in the Mongo DB documentation:
+Skim these sections in the Mongo DB documentation (wee need it to implement the required location features in the backend):
 - [TTL-indexes](https://docs.mongodb.com/manual/core/index-ttl/)
 - [2dsphere Indexes](https://docs.mongodb.com/manual/core/2dsphere/)
 
