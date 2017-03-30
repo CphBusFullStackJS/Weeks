@@ -1,7 +1,7 @@
 # Period-4 
 ### Hybrid App Development with JavaScript
 
-[Learning Goals Period 4](#)
+[Learning Goals Period 4](https://docs.google.com/document/d/19oxz_FP9XXENKnO4rf_FH43dKmozaP1ZZbEaRe5Gfl0/edit?usp=sharing)
 
 # **27-03-Monday** 
 * Using Cordova and Ionic 
@@ -24,24 +24,26 @@ If you like videos, watch this one [Build an Ionic App in 45 minutes (or less)](
 
 
 ##### Exercises:
-* TBD
+[Ionic - Getting started](https://docs.google.com/document/d/1G8o48OU7IFxDW7guZJbciNylUKXQlAfb2LkyWfCmb9o/edit?usp=sharing)
 
 ##### Slides:
-TBD
+[Hybrid/Ionic-slides](http://js-plaul.rhcloud.com/hybrid1/hybrid1.html#1)
 
 
 
 # **30-03-Thursday**
 
 #### Before this lesson you should:
-* TBD
+Skim these sections in the Mongo DB documentation (wee need it to implement the required location features in the backend):
+- [TTL-indexes](https://docs.mongodb.com/manual/core/index-ttl/)
+- [2dsphere Indexes](https://docs.mongodb.com/manual/core/2dsphere/)
 
 ##### Exercises:
 
-TBD
+[Ionic/MongoDB-location exercise](https://docs.google.com/document/d/1sxj_z5QhaXgyRqso3kVv0x6jdSrrMFvt6g-SWPxA7dI/edit?usp=sharing)
 
 ##### Slides
-TBD
+[Hybrid/Ionic-slides](http://js-plaul.rhcloud.com/hybrid1/hybrid1.html#1)
 
 # **03-04-Monday**
 ### Complete Hand-in for Period-4
