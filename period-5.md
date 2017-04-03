@@ -26,7 +26,11 @@ Go through (as much as you have time for, the rest will one of the exercises in 
 # **01-05-Monday**
 
 #### Before this lesson you should:
+Complete, as much as you have time for, the [react-router tutorial](https://github.com/ReactTraining/react-router/tree/v3/docs)
 
+**Important:** Things changes extremely fast in "React-country" We are using V3 of the router this semester, so whenever required, do:
+
+```npm install react-router@3 --save```
 
 ##### Exercises:
 
