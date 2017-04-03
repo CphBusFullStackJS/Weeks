@@ -19,4 +19,5 @@ Mon, 03/04 |  Period-4 | Hybrid Mobile Apps  | [ &#128279;](#) |
 Thu, 24/04 |  Period-5 | React (or ??)  | [ &#128279;](#) |  
 Thu, 01/05 |  Period-5 | React (or ??)  | [ &#128279;](#) |  
 Thu, 08/05 |  Period-5 | React (or ??)  | [ &#128279;](#) |  
+Thu, 11/05 |  Period-5 | React (or ??)  | [ &#128279;](#) |  
 This remaining weeks are not planned yet
