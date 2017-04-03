@@ -12,7 +12,7 @@ Mon, 06/03 |  Period-2 | Complete Hand-in 2| [ &#128279;](period-2.md/#06-03-mon
 Mon, 13/03 |  [Period-3](period-3.md) | NoSQL-1 | [ &#128279;](period-3.md/#13-03-monday) | 
 Thu, 16/03 |  Period-3 | NoSQL-1 | [ &#128279;](period-3.md/#16-03-thursday) |
 Mon, 20/03 |  Period-3 | NoSQL-1 | [ &#128279;](period-3.md/#20-03-monday) |
-Mon, 27/03 |  Period-4 | Hybrid Mobile Apps  | [ &#128279;](#) |
+Mon, 27/03 |  [Period-4](period-4.md)) | Hybrid Mobile Apps  | [ &#128279;](#) |
 Thu, 30/03 |  Period-4 | Hybrid Mobile Apps  | [ &#128279;](#) |
 Mon, 03/04 |  Period-4 | Hybrid Mobile Apps  | [ &#128279;](#) | 
   |  Easter Holiday| |  |
