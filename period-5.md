@@ -33,10 +33,10 @@ Complete, as much as you have time for, the [react-router tutorial](https://gith
 ```npm install react-router@3 --save```
 
 ##### Exercises:
-
+TDB
 
 ##### Slides
-
+[routing with React](http://slides3-plaul.rhcloud.com/reactRouting/routing.html)
 
 # **08-05-Monday**
 
