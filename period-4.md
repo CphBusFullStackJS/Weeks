@@ -49,8 +49,8 @@ Skim these sections in the Mongo DB documentation (wee need it to implement the 
 ### Complete Hand-in for Period-4
 
 **Period Milestones:**
-* Period Hand-in: TBD
-* Reviews must be completed: TBD
-* [Hand-in Document](#)
+* Period Hand-in: April 5th. 20.00
+* Reviews must be completed: April 7th. 16.00
+* [Hand-in Document](https://docs.google.com/spreadsheets/d/1dHwJVPE1ODARTWjZ97W3IdTelW80GEoe8Hk1MeJClX0/edit?usp=sharing)
 
 [Back to calendar](periods.md)
