@@ -33,7 +33,7 @@ If you like videos, watch this one [Build an Ionic App in 45 minutes (or less)](
 
 # **30-03-Thursday**
 
-## NOTE: Unless you already have a working example for this exercise, skip it an focus COMPLETELY on the todo-app (see updated learing goals for this period)
+## NOTE: Unless you already have a working example for this exercise, skip it, an focus COMPLETELY on the todo-app (see updated learing goals for this period)
 
 #### Before this lesson you should:
 Skim these sections in the Mongo DB documentation (wee need it to implement the required location features in the backend):
