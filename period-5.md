@@ -11,8 +11,9 @@
 For this period I suggest that you for all project use the *create-react-app* to create the setup for your apps
 Install and test it as explained [here](https://github.com/facebookincubator/create-react-app)
 
-Go through (as much as you have time for, the rest will one of the exercises in the class) of this [tutorial](https://www.tutorialspoint.com/reactjs/) uptil and including the ReactJS - Router section.
-***Note: I will assume you have started with this tutorial in this lesson
+Go through this [tutorial](https://www.tutorialspoint.com/reactjs/) uptil the ReactJS - Router section.
+
+*** Note: I will assume you have started with this tutorial in this lesson
 
 **Important:** SKIP the section "ReactJS - Environment Setup" and do the following instead;
 Clone and use this project [https://github.com/Lars-m/tutorialPointsReact.git](https://github.com/Lars-m/tutorialPointsReact.git) as a start template
