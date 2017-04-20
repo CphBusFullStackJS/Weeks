@@ -8,7 +8,7 @@
 
 
 ### Before this lesson you should:
-For this period I suggest that you for all project use the *create-react-app* to create the setup for your apps
+For this period I suggest that you **for all projects** use the *create-react-app* to create the setup for your apps
 Install and test it as explained [here](https://github.com/facebookincubator/create-react-app)
 
 Go through this [tutorial](https://www.tutorialspoint.com/reactjs/) uptil the ReactJS - Router section.
