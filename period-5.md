@@ -4,20 +4,20 @@
 [Learning Goals Period 5](#)
 
 # **24-04-Monday** 
-* Getting Started React
+## Getting Started React
 
 
-#### Before this lesson you should:
+### Before this lesson you should:
 For this period I suggest that you for all project use the *create-react-app* to create the setup for your apps
 Install and test it as explained [here](https://github.com/facebookincubator/create-react-app)
 
 Go through this [tutorial](https://www.tutorialspoint.com/reactjs/) uptil the ReactJS - Router section.
 
-*** Note: I will assume you have started with this tutorial in this lesson
+### Note: I will assume you have started with this tutorial in this lesson
 
 **Important:** SKIP the section "ReactJS - Environment Setup" and do the following instead;
 Clone and use this project [https://github.com/Lars-m/tutorialPointsReact.git](https://github.com/Lars-m/tutorialPointsReact.git) as a start template
-When cloned, do the following (familar) steps:
+When cloned, do the following (familar) steps and follow the instructions on the start page:
 - ```npm install```
 - Open in your favourite Editor (```code.``` if you are using vs-code) 
 - ```npm start```, to run the project via WebPack
@@ -25,10 +25,10 @@ When cloned, do the following (familar) steps:
 
 
 ##### Exercises:
-
+TBD
 
 ##### Slides:
-
+TBD
 
 
 
