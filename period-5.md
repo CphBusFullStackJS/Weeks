@@ -25,10 +25,10 @@ When cloned, do the following (familar) steps and follow the instructions on the
 
 
 ##### Exercises:
-TBD
+[Exercises](https://docs.google.com/document/d/1jnVBnaXVYFS974W-Hecx2BWl-xTEWUD1eZTFn3MlZMk/edit?usp=sharing)
 
 ##### Slides:
-TBD
+[Slides](http://js-plaul.rhcloud.com/react1/react1.html)
 
 
 
