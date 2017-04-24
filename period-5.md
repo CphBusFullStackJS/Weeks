@@ -1,7 +1,7 @@
 # Period-5 
 ### Single Page Applications with React
 
-[Learning Goals Period 5](#)
+[Learning Goals Period 5](https://docs.google.com/document/d/1Go73pX9mLSipS0BJ8QtqGJuSwO68Zs9NUxyGA_fpmAA/edit?usp=sharing)
 
 # **24-04-Monday** 
 ## Getting Started React
