@@ -22,8 +22,6 @@ When cloned, do the following (familar) steps and follow the instructions on the
 - Open in your favourite Editor (```code.``` if you are using vs-code) 
 - ```npm start```, to run the project via WebPack
 
-
-
 ##### Exercises:
 [Exercises](https://docs.google.com/document/d/1jnVBnaXVYFS974W-Hecx2BWl-xTEWUD1eZTFn3MlZMk/edit?usp=sharing)
 
@@ -31,15 +29,32 @@ When cloned, do the following (familar) steps and follow the instructions on the
 [Slides](http://js-plaul.rhcloud.com/react1/react1.html)
 
 
-
-# **01-05-Monday**
+# **27-05-Thuersday**
+## React continued (Events, Forms, this.props.children)
 
 #### Before this lesson you should:
+
+Complete the exercises from day-1 (each day in this period builds on "stuff" from the previous day)
+
 Complete, as much as you have time for, the [react-router tutorial](https://github.com/ReactTraining/react-router/tree/v3/docs)
 
-**Important:** Things changes extremely fast in "React-country" We are using V3 of the router this semester, so whenever required, do:
+**Important:** Things changes extremely fast in "React-country" We are using V3 of the router this semester, so whenever required, install like this: ```npm install react-router@3 --save```
 
-```npm install react-router@3 --save```
+##### Exercises:
+TDB
+
+##### Slides
+[routing with React](http://slides3-plaul.rhcloud.com/reactRouting/routing.html)
+
+
+
+# **01-05-Monday**
+### React Router Continued, including a backend
+
+#### Before this lesson you should:
+Complete the exercises from day-1 (each day in this period builds on "stuff" from the previous day)
+
+**Important:** Things changes extremely fast in "React-country" We are using V3 of the router this semester, so whenever required, install like this: ```npm install react-router@3 --save```
 
 ##### Exercises:
 TDB
