@@ -36,6 +36,9 @@ When cloned, do the following (familar) steps and follow the instructions on the
 
 Complete the exercises from day-1 (each day in this period builds on "stuff" from the previous day)
 
+*Note:* I am going to spend some time on the [tic-tac-toe](https://facebook.github.io/react/tutorial/tutorial.html) example. 
+If you haven't done the tutorial before this lesson, this part will be very hard to follow.
+
 Complete, as much as you have time for, the [react-router tutorial](https://github.com/ReactTraining/react-router/tree/v3/docs)
 
 **Important:** Things changes extremely fast in "React-country" We are using V3 of the router this semester, so whenever required, install like this: ```npm install react-router@3 --save```
