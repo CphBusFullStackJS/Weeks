@@ -23,7 +23,7 @@ class BookForm extends React.Component {
   }
 
   handleSubmit = (evt) => {
-    evt.preventDefault();
+    //evt.preventDefault();
   }
 
   render() {
