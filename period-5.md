@@ -44,12 +44,12 @@ Complete, as much as you have time for, the [react-router tutorial](https://gith
 **Important:** Things changes extremely fast in "React-country" We are using V3 of the router this semester, so whenever required, install like this: ```npm install react-router@3 --save```
 
 ##### Exercises:
-[Exercises day-2](https://docs.google.com/document/d/1scno9E3uNh6ak92ak3HtlHMe9cVseGynfyOT_sIiGXA/edit?usp=sharing)
-[react-router tutorial](https://github.com/reactjs/react-router-tutorial)
+- [Exercises day-2](https://docs.google.com/document/d/1scno9E3uNh6ak92ak3HtlHMe9cVseGynfyOT_sIiGXA/edit?usp=sharing)
+- [react-router tutorial](https://github.com/reactjs/react-router-tutorial)
 
 ##### Slides
-[Slides React Fundamentals](http://js-plaul.rhcloud.com/react1/react1.html)
-[routing with React](http://slides3-plaul.rhcloud.com/reactRouting/routing.html)
+- [Slides React Fundamentals](http://js-plaul.rhcloud.com/react1/react1.html)
+- [routing with React](http://slides3-plaul.rhcloud.com/reactRouting/routing.html)
 
 
 
