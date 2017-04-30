@@ -62,7 +62,7 @@ Complete the exercises from day-1 (each day in this period builds on "stuff" fro
 **Important:** Things changes extremely fast in "React-country" We are using V3 of the router this semester, so whenever required, install like this: ```npm install react-router@3 --save```
 
 ##### Exercises:
-TDB
+[Exercises-Routing](https://docs.google.com/document/d/1ZNvKIXm7ImunhJb8LL2GGCzvM6sniaWMRNkl4blVsps/edit?usp=sharing)
 
 ##### Slides
 [routing with React](http://slides3-plaul.rhcloud.com/reactRouting/routing.html)
