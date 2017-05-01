@@ -64,6 +64,10 @@ Complete the exercises from day-1 (each day in this period builds on "stuff" fro
 ##### Exercises:
 [Exercises-Routing](https://docs.google.com/document/d/1ZNvKIXm7ImunhJb8LL2GGCzvM6sniaWMRNkl4blVsps/edit?usp=sharing)
 
+### NOTE:
+
+This is [my version](https://github.com/Lars-m/period5startcode.git) of what we did in the class, with minor changes to avoid having to include the store more than once. If you were not in the class today, read the README-file for info.
+
 ##### Slides
 [routing with React](http://slides3-plaul.rhcloud.com/reactRouting/routing.html)
 
