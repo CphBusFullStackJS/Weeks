@@ -1,7 +1,7 @@
 # Period-6 
 ### Security
 
-[Learning Goals Period 6](#)
+[Learning Goals Period 6](https://docs.google.com/document/d/1cjVwHwJyzkt8sgSBVflA7rQB4Lj-zap7TyPmm9zKSnM/edit?usp=sharing)
 
 # **11-05-Thuersday** 
 ## Security -1
