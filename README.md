@@ -6,7 +6,7 @@ This is the language we are going to "have a lot of fun with" in the coming mont
 
 ## How I have designed the course.
 
-The course is divided up into 7 periods, each with a specific topic and a number of exercises which will form the basis for the examination.
+The course is divided up into ~~7~~ 6 periods, each with a specific topic and a number of exercises which will form the basis for the examination.
 
 At least one period will be marked as non-compulsory, which mean you can replace it with a topic decided by yourself (must be approved by me).
 
