@@ -26,8 +26,8 @@ A couple of quick videos that can be enjoyed on the couch
 - Cookie Stealing: https://www.youtube.com/watch?v=T1QEs3mdJoc
 
 ##### Exercises:
-TBD
-[Exercises](#)
+There is "only" one exercise for this period.
+[Exercises](https://docs.google.com/document/d/1ZY-pZDQfwEoQlVk0Qn-lKnpa40MOl-hQdGW9Fx2A5XE/edit?usp=sharing)
 
 ##### Slides:
 TBD
@@ -39,7 +39,8 @@ TBD
 #### Before this lesson you should:
 
 ##### Exercises:
-TBD
+[Exercises](https://docs.google.com/document/d/1ZY-pZDQfwEoQlVk0Qn-lKnpa40MOl-hQdGW9Fx2A5XE/edit?usp=sharing)
+
 ##### Slides
 TBD
 
