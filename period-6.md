@@ -9,7 +9,7 @@ Focus for this last period is security. The main task in the period will be to d
 
 
 ### Before this lesson you should:
-To "tune" everyone into this new topic, we will make a **hacker competition**, focused around sessions hijacking and cross-site scripting. I will set up a siiiimpel session-driven server that are allowed to attack and:
+To "tune" everyone into this new topic, we will make a **hacker competition**, focused around sessions hijacking and cross-site scripting. I will set up a siiiimpel session-driven server that you are allowed to attack and:
 
 - First hacker who discover a session ID will receive 2 "plain beers" ;-)
 - First hacker who discover "protected" data from another user,  receives a GOOD beer
