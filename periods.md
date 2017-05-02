@@ -16,8 +16,12 @@ Mon, 27/03 |  [Period-4](period-4.md)| Hybrid Mobile Apps  | [ &#128279;](#) |
 Thu, 30/03 |  Period-4 | Hybrid Mobile Apps  | [ &#128279;](#) |
 Mon, 03/04 |  Period-4 | Hybrid Mobile Apps  | [ &#128279;](#) | 
   |  Easter Holiday| |  |
-Thu, 24/04 |  [Period-5](period-5.md) | React (or ??)  | [ &#128279;](#) |  
-Thu, 01/05 |  Period-5 | React (or ??)  | [ &#128279;](#) |  
-Thu, 08/05 |  Period-5 | React (or ??)  | [ &#128279;](#) |  
-Thu, 11/05 |  Period-5 | React (or ??)  | [ &#128279;](#) |  
-This remaining weeks are not planned yet
+Thu, 24/04 |  [Period-5](period-5.md) | React | [ &#128279;](period-5.md#24-04-monday) |  
+Thu, 27/04 |  Period-5 | React   | [ &#128279;](period-5.md#27-04-thuersday) |  
+Thu, 01/05 |  Period-5 | React   | [ &#128279;](period-5.md#01-05-monday) |  
+Thu, 08/05 |  Period-5 | React   | [ &#128279;](period-5.md#08-05-monday) |  
+Thu, 11/05 |  Period-5 | ???   | [ &#128279;](#) |  
+Thu, 15/05 |  Period-5 | ???   | [ &#128279;](#) |  
+Thu, 22/05 |  Period-5 | ???   | [ &#128279;](#) |  
+Thu, 29/05 |  Period-5 | ???   | [ &#128279;](#) |  
+
