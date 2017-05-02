@@ -20,8 +20,8 @@ Thu, 24/04 |  [Period-5](period-5.md) | React | [ &#128279;](period-5.md#24-04-m
 Thu, 27/04 |  Period-5 | React   | [ &#128279;](period-5.md#27-04-thuersday) |  
 Thu, 01/05 |  Period-5 | React   | [ &#128279;](period-5.md#01-05-monday) |  
 Thu, 08/05 |  Period-5 | React   | [ &#128279;](period-5.md#08-05-monday) |  
-Thu, 11/05 |  Period-5 | ???   | [ &#128279;](#) |  
-Thu, 15/05 |  Period-5 | ???   | [ &#128279;](#) |  
-Thu, 22/05 |  Period-5 | ???   | [ &#128279;](#) |  
-Thu, 29/05 |  Period-5 | ???   | [ &#128279;](#) |  
+Thu, 11/05 |  Period-6 | Security   | [ &#128279;](#) |  
+Thu, 15/05 |  Period-6 | Security   | [ &#128279;](#) |  
+Thu, 22/05 |  Period-6 | Security   | [ &#128279;](#) |  
+Thu, 29/05 |  Period-6 | Completing all assignments   | [ &#128279;](#) |  
 
