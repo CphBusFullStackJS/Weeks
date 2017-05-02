@@ -29,7 +29,7 @@ When cloned, do the following (familar) steps and follow the instructions on the
 [Slides](http://js-plaul.rhcloud.com/react1/react1.html)
 
 
-# **27-05-Thuersday**
+# **27-04-Thuersday**
 ## React continued (Events, Forms, this.props.children)
 
 #### Before this lesson you should:
