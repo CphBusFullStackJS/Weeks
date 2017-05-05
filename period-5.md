@@ -78,6 +78,9 @@ This is [my version](https://github.com/Lars-m/period5startcode.git) of what we 
 - Go through this [introduction to MobX](https://mobx.js.org/getting-started.html)
 - Alternatively you can use this [3. semester exercise](https://docs.google.com/document/d/1WsyQTcXsq_8B_6gUiHmVpPZMG9saoRjVw0pxSgFqOKU/edit#heading=h.gjdgxs) (do it your self, if will not be used in the class, as outlined in the exercise) for an introduction to MobX.
 
+### In this lesson.
+I will introduce MobX in the class room, using the [code from last week](https://github.com/Lars-m/period5startcode) which is (the start code for) the recommended exercise, in this period.
+
 **Period Milestones:**
 * Period Hand-in: 11-05-2017 (22.00)
 * Reviews must be completed (no reviews for this hand-in, you can do it in groups MAX 2)
