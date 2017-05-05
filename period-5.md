@@ -75,19 +75,9 @@ This is [my version](https://github.com/Lars-m/period5startcode.git) of what we 
 
 #### Before this lesson you should:
 
-
-##### Exercises:
-
-
-##### Slides
-
-# **11-05-Thuersday**
-
-### Complete Hand-in for Period-5
-
 **Period Milestones:**
-* Period Hand-in: TBD
-* Reviews must be completed: TBD
-* [Hand-in Document]TBD
+* Period Hand-in: 11-05-2017 (22.00)
+* Reviews must be completed (no reviews for this hand-in, you can do it in groups MAX 2)
+* [Hand-in Document](https://docs.google.com/spreadsheets/d/1FPLDreuVAmbRe1l7jO8pEheL37jE_fEuLaJr1t5p4qI/edit#gid=0)
 
 [Back to calendar](periods.md)
