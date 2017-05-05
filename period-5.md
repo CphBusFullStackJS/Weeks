@@ -72,8 +72,11 @@ This is [my version](https://github.com/Lars-m/period5startcode.git) of what we 
 [routing with React](http://slides3-plaul.rhcloud.com/reactRouting/routing.html)
 
 # **08-05-Monday**
+## A Quick introduction to MobX
 
 #### Before this lesson you should:
+- Go through this [introduction to MobX](https://mobx.js.org/getting-started.html)
+- Alternatively you can use this [3. semester exercise](https://docs.google.com/document/d/1WsyQTcXsq_8B_6gUiHmVpPZMG9saoRjVw0pxSgFqOKU/edit#heading=h.gjdgxs) (do it your self, if will not be used in the class, as outlined in the exercise) for an introduction to MobX.
 
 **Period Milestones:**
 * Period Hand-in: 11-05-2017 (22.00)
