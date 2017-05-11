@@ -29,6 +29,8 @@ A couple of quick videos that can be enjoyed on the couch
 There is "only" one exercise for this period.
 [Exercises](https://docs.google.com/document/d/1ZY-pZDQfwEoQlVk0Qn-lKnpa40MOl-hQdGW9Fx2A5XE/edit?usp=sharing)
 
+[Site to hack](http://js-plaul.rhcloud.com/security1/security.html)
+
 ##### Slides:
 TBD
 [Slides](#)
