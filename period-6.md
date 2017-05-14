@@ -36,15 +36,23 @@ TBD
 [Slides](#)
 
 
-# **15-15-Monday**
+# **15-05-Monday**
 ## Security-2
 #### Before this lesson you should:
+Watch this short GENIOUS video about password hashing, salting etc: https://www.youtube.com/watch?v=O6cmuiTBZVs  
+
+Watch one of the videos below, related to Json Web Tokens, which is the mechanich you are supposed to use for the last hand-in:
+- [Introduction to JWT (JSON Web Token) - Securing apps & services](https://www.youtube.com/watch?v=oXxbB5kv9OA)
+- [100% Stateless with JWT (JSON Web Token)](https://www.youtube.com/watch?v=67mezK3NzpU&t=3028s) (Longer than the video above, but gives a fantastic overview of the pros and cons with using JWT's. My introduction in the class will draw on this presentation)
 
 ##### Exercises:
 [Exercises](https://docs.google.com/document/d/1ZY-pZDQfwEoQlVk0Qn-lKnpa40MOl-hQdGW9Fx2A5XE/edit?usp=sharing)
 
+[Use this tutorial for inspiration of, how to set up you backend for Token Based Authorization](https://jonathanmh.com/express-passport-json-web-token-jwt-authentication-beginners/)
+
+
 ##### Slides
-TBD
+[slides](http://js-plaul.rhcloud.com/Security2/security2.html)
 
 
 # **22-05-Monday**
