@@ -61,8 +61,8 @@ Watch one of the videos below, related to Json Web Tokens, which is the technolo
 ### Complete Hand-in for Period-6
 
 **Period Milestones:**
-* Period Hand-in: TBD
-* Reviews must be completed: TBD
-* [Hand-in Document]TBD
+* Period Hand-in: Monday 29th. 22.00
+* No reviews for this hand-in, you can do it in groups MAX 2
+* [Hand-in Document](https://docs.google.com/spreadsheets/d/1p4ceO7Qapmg_XRpFA-5ZEPNEU26SGb7fyGMqTySHPFw/edit#gid=0)
 
 [Back to calendar](periods.md)
